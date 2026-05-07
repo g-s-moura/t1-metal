@@ -2,6 +2,11 @@
 
 Trabalho prático de Avaliação de Desempenho / Simulação de Redes de Filas.
 
+## Integrantes do grupo
+
+Camila Vaz
+Gabriel Moura
+
 ## Arquivos
 
 - `simulador.py`: código-fonte do simulador
